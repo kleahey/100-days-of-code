@@ -34,8 +34,8 @@
 -->
 ### Day 1:  January 2, 2017
 
-**Today's Progress:**
+**Today's Progress:** It was a great start today diving in head first to learning how to build an app with Ruby on Rails.  Got started on a new project integrating with Spotify's API.
 
-**Thoughts:**
+**Thoughts:** It's only day one and I feel like I'm gaining lots and lots of knowledge.  This is probably the most fun I've had with a New Year's Resolution ever.
 
-**Links:**
+**Links:** Check out my blog for a more detailed description of today's progress:  [kevinleahey.com](http://www.kevinleahey.com/100daysofcode-getting-started/)
