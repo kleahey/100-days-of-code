@@ -32,6 +32,14 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 -->
+### Day 2:  January 3, 2017
+
+**Today's Progress:** Today I took a brief detour from completing the Rails blog app to fix my media server.  I am upgrading hardware, and needed to rebuild my Plex, Sabnzbd, Deluge, Sonarr, CouchPotato, Headphones, and LazyLibrary applications on the new server. I got some great experience with file permissions.
+
+**Thoughts:** Every time I use Linux, I feel more and more comfortable with it. I'm at a place where I prefer to use the Linux command line over any other operating system.
+
+**Links:** Check out my blog for a more detailed description of today's progress:  [kevinleahey.com](http://www.kevinleahey.com/100daysofcode-getting-started/)
+
 ### Day 1:  January 2, 2017
 
 **Today's Progress:** It was a great start today diving in head first to learning how to build an app with Ruby on Rails.  Got started on a new project integrating with Spotify's API.
