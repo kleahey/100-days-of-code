@@ -32,6 +32,14 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 -->
+### Day 3:  January 4, 2017
+
+**Today's Progress:** Today was all about security.  I decided that I didn't want my media server exposed to the internet, so I installed and configured OpenVPN on the server for remote access.
+
+**Thoughts:** OpenVPN is the definition of open source software.  It is definitely not without fault, but has an extremely large user-driven support community.  Now that I have gotten my media server configured, I'm really excited to get back on track with developing my Rails apps.
+
+**Links:**
+
 ### Day 2:  January 3, 2017
 
 **Today's Progress:** Today I took a brief detour from completing the Rails blog app to fix my media server.  I am upgrading hardware, and needed to rebuild my Plex, Sabnzbd, Deluge, Sonarr, CouchPotato, Headphones, and LazyLibrary applications on the new server. I got some great experience with file permissions.
