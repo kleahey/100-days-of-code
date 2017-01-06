@@ -32,6 +32,14 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 -->
+### Day 4:  January 5, 2017
+
+**Today's Progress:**  Connected an AWS EC2 database to an external source using the ruby gem 'mysql2'
+
+**Thoughts:** I have been wanting to learn how to get access to the MySQL server on an EC2 instance for some time.  Having external access allows me to gain access to the production database on my development server.  The overall process was very easy, and didn't take long to implement throughout an existing ruby app.
+
+**Links:** [Check out the whole process on my blog](http://wp.me/p7UCLQ-1Z)
+
 ### Day 3:  January 4, 2017
 
 **Today's Progress:** Today was all about security.  I decided that I didn't want my media server exposed to the internet, so I installed and configured OpenVPN on the server for remote access.
