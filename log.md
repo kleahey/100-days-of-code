@@ -32,6 +32,14 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 -->
+### Day 6:  January 9, 2017
+
+**Today's Progress:** More work learning the Ruby language
+
+**Thoughts:** More work on continuing to learn Ruby language and syntax so that I can write better programs in Ruby.  I have to keep telling myself that slow and steady wins the race.
+
+**Links:**
+
 ### Day 5:  January 8, 2017
 
 **Today's Progress:** More work learning the Ruby language
